@@ -1,0 +1,15 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.6.3",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "measure": "ts-node src/measure.ts"
+  }
+}
